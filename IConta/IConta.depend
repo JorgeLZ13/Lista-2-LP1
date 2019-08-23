@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1566139248 source:c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\iconta\main.cpp
+	<iostream>
+	"IConta.h"
+	"Conta.h"
+
+1566136261 source:c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\iconta\src\iconta.cpp
+	"IConta.h"
+
+1566138930 c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\iconta\include\iconta.h
+	<string>
+	<iostream>
+
+1566140626 source:c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\iconta\src\conta.cpp
+	"Conta.h"
+
+1566139879 c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\iconta\include\conta.h
+	"IConta.h"
+
+1566140554 source:c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\iconta\src\contaespecial.cpp
+	"ContaEspecial.h"
+
+1566140463 c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\iconta\include\contaespecial.h
+	"Conta.h"
+
