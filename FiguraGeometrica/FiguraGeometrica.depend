@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1565618348 source:c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\figurageometrica\main.cpp
+	<iostream>
+	"FiguraGeometrica.h"
+	"Triangulo.h"
+	"Quadrado.h"
+	"Circulo.h"
+
+1565614834 source:c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\figurageometrica\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1565617514 c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\figurageometrica\include\figurageometrica.h
+	<string>
+
+1565618401 source:c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\figurageometrica\src\triangulo.cpp
+	"Triangulo.h"
+
+1565618097 c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\figurageometrica\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1565618359 source:c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\figurageometrica\src\quadrado.cpp
+	"Quadrado.h"
+
+1565618387 c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\figurageometrica\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1565617896 source:c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\figurageometrica\src\circulo.cpp
+	"Circulo.h"
+
+1565617523 c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\figurageometrica\include\circulo.h
+	"FiguraGeometrica.h"
+
