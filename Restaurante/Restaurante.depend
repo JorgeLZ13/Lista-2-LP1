@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1564847225 source:c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\restaurante\main.cpp
+	<iostream>
+	"Pedido.h"
+	"MesaDeRestaurante.h"
+	"RestauranteCaseiro.h"
+
+1564846387 source:c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\restaurante\src\mesaderestaurante.cpp
+	"MesaDeRestaurante.h"
+
+1564846094 c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\restaurante\include\mesaderestaurante.h
+	"Pedido.h"
+	<iostream>
+
+1564843822 c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\restaurante\include\pedido.h
+	<string>
+
+1564847243 source:c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\restaurante\src\restaurantecaseiro.cpp
+	"RestauranteCaseiro.h"
+
+1564845310 c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\restaurante\include\restaurantecaseiro.h
+	"MesaDeRestaurante.h"
+
+1564845035 source:c:\users\jorge luiz\desktop\engenharia de computação\p2\lp1\c++\restaurante\src\pedido.cpp
+	"Pedido.h"
+
